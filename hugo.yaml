@@ -1,0 +1,36 @@
+baseURL: https://eurocore.aass.oru.se/
+languageCode: en-us
+title: EuroCore Frontpage
+theme: hextra
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: EuroCore Frontpage
+
+menu:
+  main:
+    - name: About
+      pageRef: /about
+      weight: 2
+
+params:
+  description: "Frontpage for the EuroCore services developed by the euROBIN project."
+  theme:
+    default: system
+    displayToggle: true
+  page:
+    width: full
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+
