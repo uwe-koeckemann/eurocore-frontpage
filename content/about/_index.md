@@ -6,6 +6,13 @@ title: 'About'
 
 This page acts as a frontpage for the EuroCore, a European repository for robotics developed by the euROBIN project. 
 
+# Provide Feedback and Contribute
+
+We track suggestions and feedback via GitHub issues:
+
+https://github.com/uwe-koeckemann/eurocore-frontpage/issues
+
+
 # Image Sources
 
 - Push image: "Rustic/ Vintage Door With Push Sign" by Devon Janse van Rensburg
