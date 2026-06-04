@@ -21,6 +21,8 @@ https://github.com/uwe-koeckemann/eurocore-frontpage/issues
 - Pull image: "In case you were wondering where to pull..." by David Ballew
   - https://unsplash.com/photos/blue-and-white-metal-tool-qYrtoE6ESnI
   
+- Competition image: Generated with HuggingChat and the Image Generation tool.
+  
 # Hugo Theme
 
 https://github.com/imfing/hextra
